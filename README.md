@@ -1,51 +1,57 @@
-🍽️ Fullstack Recipe App
+# 🍽️ Fullstack Recipe App
 
 A full-stack recipe application built with React, Tailwind CSS, and Express.js.
 Users can browse recipes, view details, and interact with a modern, responsive UI powered by a simple REST API.
 
-🚀 Tech Stack
-Frontend
+## 🚀 Tech Stack
 
-React 19
+### * Frontend
 
-React Router DOM
+- React 19
 
-Tailwind CSS
+- React Router DOM
 
-@tanstack/react-query (data fetching & caching)
+- Tailwind CSS
 
-Axios
+- @tanstack/react-query (data fetching & caching)
 
-React Select
+- Axios
 
-React Toastify
+- React Select
 
-Lucide React (icons)
+- React Toastify
 
-Vite
+- Lucide React (icons)
 
-Backend
+- Vite
 
-Node.js
+### * Backend
 
-Express.js
+- Node.js
 
-CORS
+- Express.js
 
-Nodemon
+- CORS
 
-✨ Features
+- Nodemon
 
-Responsive and modern UI
+## ✨ Features
 
-Recipe listing and detail pages
 
-API integration with React Query
+- Responsive and modern UI
 
-Clean and reusable component structure
+- Recipe listing and detail pages
 
-Toast notifications for better UX
+- API integration with React Query
 
-Fully responsive (mobile, tablet, desktop)
+- Clean and reusable component structure
 
-Simple REST API built with Express
+- Toast notifications for better UX
+
+- Fully responsive (mobile, tablet, desktop)
+
+- Simple REST API built with Express
+
+
+
+  
