@@ -3,6 +3,10 @@
 A full-stack recipe application built with React, Tailwind CSS, and Express.js.
 Users can browse recipes, view details, and interact with a modern, responsive UI powered by a simple REST API.
 
+## Screenshot
+![recipe](https://github.com/user-attachments/assets/d05247c4-283b-41d5-aea4-d09df8e2bbe4)
+
+
 ## 🚀 Tech Stack
 
 ### * Frontend
